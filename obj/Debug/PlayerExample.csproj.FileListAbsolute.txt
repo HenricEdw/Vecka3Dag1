@@ -1,0 +1,7 @@
+C:\VisualStudioProject\PlayerExample\bin\Debug\PlayerExample.exe.config
+C:\VisualStudioProject\PlayerExample\bin\Debug\PlayerExample.exe
+C:\VisualStudioProject\PlayerExample\bin\Debug\PlayerExample.pdb
+C:\VisualStudioProject\PlayerExample\obj\Debug\PlayerExample.csprojAssemblyReference.cache
+C:\VisualStudioProject\PlayerExample\obj\Debug\PlayerExample.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\PlayerExample\obj\Debug\PlayerExample.exe
+C:\VisualStudioProject\PlayerExample\obj\Debug\PlayerExample.pdb

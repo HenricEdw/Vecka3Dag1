@@ -1,0 +1,6 @@
+C:\VisualStudioProject\PlayerExample\bin\Release\PlayerExample.exe.config
+C:\VisualStudioProject\PlayerExample\bin\Release\PlayerExample.exe
+C:\VisualStudioProject\PlayerExample\bin\Release\PlayerExample.pdb
+C:\VisualStudioProject\PlayerExample\obj\Release\PlayerExample.csproj.CoreCompileInputs.cache
+C:\VisualStudioProject\PlayerExample\obj\Release\PlayerExample.exe
+C:\VisualStudioProject\PlayerExample\obj\Release\PlayerExample.pdb
